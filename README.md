@@ -1,2 +1,2 @@
 # interactive-banners
-Interective HTML5 ads with GSAP and Pixi.js
+Interactive HTML5 ads with GSAP and Pixi.js
