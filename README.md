@@ -1,5 +1,5 @@
-# interective-banners
-Interective HTML5 ads with GSAP and Pixi.js
+# interactive-banners
+Interactive HTML5 ads with GSAP and Pixi.js
 
 1. Rich-Media Banner “Discover the Galaxy” (Pixi.js + GSAP) https://delilah07.github.io/interactive-banners/banner-1/ \
 2. Rich-Media Banner “Interactive Product” (Pixi.js + GSAP) https://delilah07.github.io/interactive-banners/banner-2/ \
